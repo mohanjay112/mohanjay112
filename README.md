@@ -1,4 +1,4 @@
-#   Hi, I'm Mohan Jay — Aspiring DevOps Engineer
+#   Hi, I'm Mohan Jaydatt — Aspiring DevOps Engineer
 
  Aspiring DevOps Engineer | M.Sc. in Computer Science (2023 Passout)
 
