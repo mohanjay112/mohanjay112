@@ -1,8 +1,13 @@
-#  Hi, I’m Mohan Jay
+#   Hi, I'm Mohan Jay — Aspiring DevOps Engineer
 
  Aspiring DevOps Engineer | M.Sc. in Computer Science (2023 Passout)
 
  I specialize in building CI/CD pipelines, automating cloud infrastructure, and deploying Java web applications using modern DevOps tools.
+
+---
+
+## I'm a passionate DevOps engineer with hands-on experience in CI/CD, cloud automation, and infrastructure as code.  
+   I recently completed multiple real-world projects using Jenkins, Ansible, Docker, Kubernetes, and Terraform.
 
 ---
 
