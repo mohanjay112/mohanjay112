@@ -24,7 +24,7 @@
 
 ---
 
-##  Pinned Projects
+## Pinned Projects
 
  [CI/CD Pipeline for Java App](https://github.com/mohanjay112/ci-cd-java-pipeline-jenkins)  
  [Java App Deployment on Kubernetes](https://github.com/mohanjay112/java-app-kubernetes-deployment)  
