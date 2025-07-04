@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Mohan Jay
 
-<!--
-**mohanjay112/mohanjay112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring DevOps Engineer | M.Sc. in Computer Science (2023 Passout)
 
-Here are some ideas to get you started:
+🚀 I specialize in building CI/CD pipelines, automating cloud infrastructure, and deploying Java web applications using modern DevOps tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Technologies
+
+- CI/CD: Jenkins, Git, Maven
+- Infrastructure: Terraform, AWS EC2, S3
+- Containers: Docker, Kubernetes
+- Code Quality: SonarQube
+- Artifact Repositories: Nexus
+- Configuration Management: Ansible, Terraform 
+- Monitoring & Notifications: Slack, Email
+- OS: Ubuntu, Windows
+
+---
+
+## 📌 Pinned Projects
+
+🔁 [CI/CD Pipeline for Java App](https://github.com/mohanjay112/ci-cd-java-pipeline-jenkins)  
+☸️ [Java App Deployment on Kubernetes](https://github.com/mohanjay112/java-app-kubernetes-deployment)  
+☁️ [AWS Infrastructure with Terraform](https://github.com/mohanjay112/terraform-aws-infrastructure)
+
+---
+
+📫 Reach me at: mohanjay112@gmail.com  
+🌐 LinkedIn: [linkedin.com/in/mohanjay112](https://linkedin.com/in/mohanjay112)
